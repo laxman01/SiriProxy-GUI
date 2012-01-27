@@ -1,0 +1,4 @@
+Once you download this file all you have to do is go into the SiriProxy directory and run "sh setup.sh" 
+without the quotation.
+I have created this shell script that automates the whole process.
+All that is left for you to do is setup DNSmasq and put the certs that the script has generated.
